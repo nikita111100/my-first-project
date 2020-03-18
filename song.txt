@@ -1,4 +1,8 @@
 There’s a calm surrender
+<<<<<<< HEAD
 To the rush of day
 When the heat of the rolling world
 Can be turned away
+=======
+To the rush of day
+>>>>>>> seconddeveloper
